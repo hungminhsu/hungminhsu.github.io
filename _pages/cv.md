@@ -9,19 +9,18 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Education
+Education and Academic Training
 ======
-* Ph.D. in *Electrical & Computer Engineering (Advisor: Prof. Jenq-Neng Hwang)*, *University of Washington*, present
-* M.S. in *Electrical & Computer Engineering*, *University of Washington*, 2021 (GPA:  3.84/4.0)
-* B.S. in *Electrical Engineering*, *National Taiwan University*, 2014 (GPA: 3.78/4,0)
+* Postdoc in *Electrical & Computer Engineering (Advisor: Prof. Jenq-Neng Hwang)*, *University of Washington*, present
+* Ph.D. in *Engineering Science and Ocean Engineering (Major: Computer Science)*, *National Taiwan University*, 2017
 
 
-<img src="https://yangchris11.github.io/images/cv/ntu.png" alt="ntu" width ="130" height="130"/>
-<img src="https://yangchris11.github.io/images/cv/uw.png" alt="uw" width ="130" height="130"/>
+<img src="https://hungminhsu.github.io/images/cv/ntu.png" alt="ntu" width ="130" height="130"/>
+<img src="https://hungminhsu.github.io/images/cv/uw.png" alt="uw" width ="130" height="130"/>
 
 
 
-Working Experiences
+<!-- Working Experiences
 ======
 * [Summer 2021] Incoming Applied Scientist Intern, Amazon, Bellevue
 * [Jun 2020 - Sep 2020] Software Engineer Intern, ASML, San Diego (Virtual)
@@ -30,15 +29,14 @@ Working Experiences
 
 <img src="https://yangchris11.github.io/images/cv/amazonlab126.png" alt="amazon126_logo" width="170"/>  
 <img src="https://yangchris11.github.io/images/cv/asml.png" alt="asml_logo" width="130"/>
-<img src="https://yangchris11.github.io/images/cv/envive.png" alt="envive_logo" width="120"/>
-  
+<img src="https://yangchris11.github.io/images/cv/envive.png" alt="envive_logo" width="120"/>-->
 
 
-Teaching Experiences
+<!-- Teaching Experiences
 ======
 * Machine Learning 
 
-* Deep Learning for Computer Vision
+* Deep Learning for Computer Vision-->
 
 
 Publications
