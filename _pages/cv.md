@@ -22,26 +22,26 @@ Education and Academic Training
 Honors and Awards
 ======
 * 1st Place 2020 CVPR 5th BMTT MOT Challenge:
-** Supplied masks: Multi-Object Tracking using the supplied segmentation masks on both the MOTS20 and the KITTI MOTS datasets
+Supplied masks: Multi-Object Tracking using the supplied segmentation masks on both the MOTS20 and the KITTI MOTS datasets
 * 2nd Place 2020 CVPR 5th BMTT MOT Challenge:
-** KITTI-MOTS: Multi-Object Tracking and Segmentation for road traffic scenarios on the KITTI MOTS dataset
+KITTI-MOTS: Multi-Object Tracking and Segmentation for road traffic scenarios on the KITTI MOTS dataset
 * 5th Place 2020 ACCV HID Competition:
-** Human Identification at a Distance
+Human Identification at a Distance
 * 1st Place 2019 CVPR AI City Challenge:
-** City-Scale Multi-Camera Vehicle Tracking
+City-Scale Multi-Camera Vehicle Tracking
 * nd Place 2019 CVPR AI City Challenge:
-** City-Scale Multi-Camera Vehicle Re-Identification
+City-Scale Multi-Camera Vehicle Re-Identification
 * 2nd Place 2019 CVPR AI City Challenge:
-** Traffic Anomaly Detection
+Traffic Anomaly Detection
 * Top 3 Poster Nvidia GTC 2019:
-** GPU Technology Conference
+GPU Technology Conference
 
 Services
 ======
-* IEEE Taipei Section Member Representative (2021/01~)
-* Nvidia Ambassador (2019/11~~)
-* Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (2021/02)
-* Reviewer of Computer Vision and Pattern Recognition (CVPR) Workshops 20
+* IEEE Taipei Section Member Representative (2021/01~present)
+* Nvidia Ambassador (2019/11~present)
+* Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (2021/02-present)
+* Reviewer of Computer Vision and Pattern Recognition (CVPR) Workshops 2020
 
 
 <!-- Working Experiences
