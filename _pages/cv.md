@@ -19,6 +19,30 @@ Education and Academic Training
 <img src="https://hungminhsu.github.io/images/cv/uw.png" alt="uw" width ="130" height="130"/>
 
 
+Honors and Awards
+======
+* 1st Place 2020 CVPR 5th BMTT MOT Challenge:
+** Supplied masks: Multi-Object Tracking using the supplied segmentation masks on both the MOTS20 and the KITTI MOTS datasets
+* 2nd Place 2020 CVPR 5th BMTT MOT Challenge:
+** KITTI-MOTS: Multi-Object Tracking and Segmentation for road traffic scenarios on the KITTI MOTS dataset
+* 5th Place 2020 ACCV HID Competition:
+** Human Identification at a Distance
+* 1st Place 2019 CVPR AI City Challenge:
+** City-Scale Multi-Camera Vehicle Tracking
+* nd Place 2019 CVPR AI City Challenge:
+** City-Scale Multi-Camera Vehicle Re-Identification
+* 2nd Place 2019 CVPR AI City Challenge:
+** Traffic Anomaly Detection
+* Top 3 Poster Nvidia GTC 2019:
+** GPU Technology Conference
+
+Services
+======
+* IEEE Taipei Section Member Representative (2021/01~)
+* Nvidia Ambassador (2019/11~~)
+* Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (2021/02)
+* Reviewer of Computer Vision and Pattern Recognition (CVPR) Workshops 20
+
 
 <!-- Working Experiences
 ======
